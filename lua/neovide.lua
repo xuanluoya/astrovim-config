@@ -1,6 +1,3 @@
--- This will run last in the setup process.
--- This is just pure lua so anything that doesn't
--- fit in the normal config locations above can go here
 vim.o.guifont = "Maple Mono NF:h14"
 vim.g.neovide_hide_mouse_when_typing = true
 vim.g.experimental_layer_grouping = true
