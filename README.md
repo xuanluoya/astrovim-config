@@ -1,34 +1,18 @@
-# AstroNvim Template
+# AstroVim d(`･∀･)b
+---
+This repo is AstroVim config for me, you also can trying this, I think is fast and safe(maybe)
 
-**NOTE:** This is for AstroNvim v5+
+## How to use ٩(๑•̀ω•́๑)۶
 
-A template for getting started with [AstroNvim](https://github.com/AstroNvim/AstroNvim)
+#### Preconditions
+* (ripgrep)[https://github.com/BurntSushi/ripgrep]
+* (yazi)[https://github.com/sxyazi/yazi]
+* (chafa)[https://github.com/hpjansson/chafa]
 
-## 🛠️ Installation
+readdy? GO!!! ─=≡Σ((( つ•̀ω•́)つ
 
-#### Make a backup of your current nvim and shared folder
-
-```shell
-mv ~/.config/nvim ~/.config/nvim.bak
-mv ~/.local/share/nvim ~/.local/share/nvim.bak
-mv ~/.local/state/nvim ~/.local/state/nvim.bak
-mv ~/.cache/nvim ~/.cache/nvim.bak
+```bash
+git clone https://github.com/Xuanluo-Qiu/astrovim-config ~/.config/nvim && nvim
 ```
 
-#### Create a new user repository from this template
-
-Press the "Use this template" button above to create a new repository to store your user configuration.
-
-You can also just clone this repository directly if you do not want to track your user configuration in GitHub.
-
-#### Clone the repository
-
-```shell
-git clone https://github.com/<your_user>/<your_repository> ~/.config/nvim
-```
-
-#### Start Neovim
-
-```shell
-nvim
-```
+Enjoy! ヽ( ° ▽°)ノ

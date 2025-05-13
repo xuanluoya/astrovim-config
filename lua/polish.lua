@@ -5,7 +5,6 @@
 -- Neovide Config
 vim.o.guifont = "RecMonoCasual Nerd Font:h14"
 vim.g.neovide_hide_mouse_when_typing = true
-vim.g.experimental_layer_grouping = true
 vim.g.neovide_fullscreen = true
 vim.g.neovide_macos_simple_fullscreen = true
 vim.g.neovide_cursor_vfx_mode = "torpedo"

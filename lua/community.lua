@@ -5,8 +5,11 @@
 ---@type LazySpec
 return {
   "AstroNvim/astrocommunity",
+  -- Language Config
   { import = "astrocommunity.pack.lua" },
-  { import = "astrocommunity.colorscheme.catppuccin" },
   { import = "astrocommunity.pack.cpp" },
   { import = "astrocommunity.pack.cmake" },
+  { import = "astrocommunity.markdown-and-latex.render-markdown-nvim" },
+  -- Themes
+  { import = "astrocommunity.colorscheme.catppuccin" },
 }
