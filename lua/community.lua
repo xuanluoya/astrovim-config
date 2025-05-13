@@ -10,6 +10,8 @@ return {
   { import = "astrocommunity.pack.cpp" },
   { import = "astrocommunity.pack.cmake" },
   { import = "astrocommunity.markdown-and-latex.render-markdown-nvim" },
+  -- Editor animate
+  { import = "astrocommunity.scrolling.mini-animate" },
   -- Themes
   { import = "astrocommunity.colorscheme.catppuccin" },
 }
