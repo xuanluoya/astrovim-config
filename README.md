@@ -5,9 +5,9 @@ This repo is AstroVim config for me, you also can trying this, I think is fast a
 ## How to use ٩(๑•̀ω•́๑)۶
 
 #### Preconditions
-* (ripgrep)[https://github.com/BurntSushi/ripgrep]
-* (yazi)[https://github.com/sxyazi/yazi]
-* (chafa)[https://github.com/hpjansson/chafa]
+* [ripgrep](https://github.com/BurntSushi/ripgrep)
+* [yazi](https://github.com/sxyazi/yazi)
+* [chafa](https://github.com/hpjansson/chafa)
 
 readdy? GO!!! ─=≡Σ((( つ•̀ω•́)つ
 
