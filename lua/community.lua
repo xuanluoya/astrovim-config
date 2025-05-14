@@ -14,4 +14,9 @@ return {
   { import = "astrocommunity.scrolling.mini-animate" },
   -- Themes
   { import = "astrocommunity.colorscheme.catppuccin" },
+  { import = "astrocommunity.colorscheme.tokyonight-nvim" },
+  { import = "astrocommunity.colorscheme.nightfox-nvim" },
+  { import = "astrocommunity.colorscheme.kanagawa-nvim" },
+  { import = "astrocommunity.colorscheme.everforest" },
+  { import = "astrocommunity.colorscheme.nord-nvim" },
 }

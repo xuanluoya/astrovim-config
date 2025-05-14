@@ -1,20 +1,17 @@
 return {
   {
     "folke/snacks.nvim",
+    priority = 1000,
+    lazy = false,
     opts = {
       -- your configuration comes here
       -- or leave it empty to use the default settings
       -- refer to the configuration section below
       bigfile = { enabled = true },
       dashboard = {
+
         preset = {
           header = [[
-
-
-
-
-
-
 ⣿⢸⣿⣿⣿⣿⣿⢹⣿⣿⣿⣿⣿⢿⣿⡇⡇⣿⣿⡇⢹⣿⣿⣿⣿⣿⣿⠄⢸⣿
 ⡟⢸⣿⣿⣭⣭⡭⣼⣶⣿⣿⣿⣿⢸⣧⣇⠇⢸⣿⣿⠈⣿⣿⣿⣿⣿⣿⡆⠘⣿
 ⡇⢸⣿⣿⣿⣿⡇⣻⡿⣿⣿⡟⣿⢸⣿⣿⠇⡆⣝⠿⡌⣸⣿⣿⣿⣿⣿⡇⠄⣿
@@ -60,8 +57,12 @@ return {
             pane = 1,
             {
               section = "terminal",
-              cmd = 'chafa -f symbols --symbols sextant -c full --speed=0.9 --clear --stretch "$HOME/.config/nvim/assets/gif_2.gif"; sleep .1',
-              height = 32,
+              --[
+              -- `--symbols` => all, block, quad, half, vhalf, inverted
+              -- legacy, sextant, wedge, wide, narrow
+              --]
+              cmd = 'chafa -f symbols --symbols block -c full --speed=0.9 --clear --stretch "$HOME/.config/nvim/assets/kawa/tvchany-anime-pixel-art-other.gif"',
+              height = 37,
               width = 72,
               padding = 1,
               enabled = function() return vim.o.columns > 135 end,

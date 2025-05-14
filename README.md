@@ -8,6 +8,7 @@ This repo is AstroVim config for me, you also can trying this, I think is fast a
 * [ripgrep](https://github.com/BurntSushi/ripgrep)
 * [yazi](https://github.com/sxyazi/yazi)
 * [chafa](https://github.com/hpjansson/chafa)
+* [ImageMagick](https://github.com/ImageMagick/ImageMagick)
 
 readdy? GO!!! ─=≡Σ((( つ•̀ω•́)つ
 
@@ -16,15 +17,14 @@ git clone https://github.com/Xuanluo-Qiu/astrovim-config ~/.config/nvim && nvim
 ```
 
 #### Mappings
-Due to limitations of MacOS I added new shortcut keys for window resizing
 
-
-|Action   |Mappings          |
-|---------|------------------| 
-|`<C-a>`  |Resize split up   |
-|`<C-z>`  |Resize split down |
-|`<C-x>`  |Resize split left |
-|`<C-c>`  |Resize split right|
+|Action       |Mappings               |
+|-------------|-----------------------|
+|`<C-a>`      |Resize split up        |
+|`<C-z>`      |Resize split down      |
+|`<C-x>`      |Resize split left      |
+|`<C-c>`      |Resize split right     |
+|`<Leader>cs` |Open colorscheme picker| 
 
 
 Enjoy! ヽ( ° ▽°)ノ
