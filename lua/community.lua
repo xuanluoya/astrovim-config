@@ -18,5 +18,4 @@ return {
   { import = "astrocommunity.colorscheme.nightfox-nvim" },
   { import = "astrocommunity.colorscheme.kanagawa-nvim" },
   { import = "astrocommunity.colorscheme.everforest" },
-  { import = "astrocommunity.colorscheme.nord-nvim" },
 }

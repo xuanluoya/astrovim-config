@@ -4,7 +4,6 @@ return {
   opts = {
     themes = {
       "everforest",
-      "nord",
       "catppuccin-frappe",
       "catppuccin-latte",
       "catppuccin-macchiato",
