@@ -6,6 +6,7 @@ This repo is AstroVim config for me, you also can trying this, I think is fast a
 
 #### Preconditions
 * [ripgrep](https://github.com/BurntSushi/ripgrep)
+* [fd](https://github.com/sharkdp/fd)
 * [yazi](https://github.com/sxyazi/yazi)
 * [chafa](https://github.com/hpjansson/chafa)
 * [ImageMagick](https://github.com/ImageMagick/ImageMagick)
