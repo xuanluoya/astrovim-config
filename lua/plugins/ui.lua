@@ -25,8 +25,4 @@ return {
       current_line_blame = true,
     },
   },
-  {
-    "Isrothy/neominimap.nvim",
-    lazy = false,
-  },
 }
