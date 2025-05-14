@@ -10,6 +10,9 @@ This repo is AstroVim config for me, you also can trying this, I think is fast a
 * [chafa](https://github.com/hpjansson/chafa)
 * [ImageMagick](https://github.com/ImageMagick/ImageMagick)
 
+If you want to enable GUI or want a cooler experience, I recommend using [Neovide](https://github.com/neovide/neovide).
+I have already configured it perfectly for you!
+
 readdy? GO!!! ─=≡Σ((( つ•̀ω•́)つ
 
 ```bash
