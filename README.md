@@ -12,6 +12,7 @@ This repo is AstroVim config for me, you also can trying this, I think is fast a
 * [ImageMagick](https://github.com/ImageMagick/ImageMagick)
 
 If you want to enable GUI or want a cooler experience, I recommend using [Neovide](https://github.com/neovide/neovide).
+
 I have already configured it perfectly for you!
 
 readdy? GO!!! ─=≡Σ((( つ•̀ω•́)つ
@@ -28,7 +29,6 @@ git clone https://github.com/Xuanluo-Qiu/astrovim-config ~/.config/nvim && nvim
 |`<C-z>`      |Resize split down      |
 |`<C-x>`      |Resize split left      |
 |`<C-c>`      |Resize split right     |
-|`<Leader>cs` |Open colorscheme picker| 
 
 
 Enjoy! ヽ( ° ▽°)ノ

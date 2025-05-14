@@ -11,7 +11,7 @@ return {
   { import = "astrocommunity.pack.cmake" },
   { import = "astrocommunity.pack.rust" },
   { import = "astrocommunity.markdown-and-latex.render-markdown-nvim" },
-  -- Editor animate
+  -- Let edit batter
   { import = "astrocommunity.scrolling.mini-animate" },
   -- Themes
   { import = "astrocommunity.colorscheme.catppuccin" },

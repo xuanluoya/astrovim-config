@@ -18,4 +18,15 @@ return {
       },
     },
   },
+  -- Deep buffer integration for Git
+  {
+    "lewis6991/gitsigns.nvim",
+    opts = {
+      current_line_blame = true,
+    },
+  },
+  {
+    "Isrothy/neominimap.nvim",
+    lazy = false,
+  },
 }

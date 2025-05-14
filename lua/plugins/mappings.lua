@@ -10,9 +10,6 @@ return {
           ["<C-z>"] = { "<Cmd>resize +2<CR>", desc = "Resize split down" },
           ["<C-x>"] = { "<Cmd>vertical resize -2<CR>", desc = "Resize split left" },
           ["<C-c>"] = { "<Cmd>vertical resize +2<CR>", desc = "Resize split right" },
-
-          -- Chage colorscheme
-          ["<Leader>cs"] = { "<Cmd>Themery<CR>", desc = "Open colorscheme picker" },
         },
       },
     },
