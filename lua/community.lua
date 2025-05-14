@@ -10,7 +10,6 @@ return {
   { import = "astrocommunity.pack.cpp" },
   { import = "astrocommunity.pack.cmake" },
   { import = "astrocommunity.pack.rust" },
-  { import = "astrocommunity.pack.toml" },
   { import = "astrocommunity.markdown-and-latex.render-markdown-nvim" },
   -- Editor animate
   { import = "astrocommunity.scrolling.mini-animate" },
