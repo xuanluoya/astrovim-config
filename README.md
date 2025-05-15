@@ -18,7 +18,7 @@ I have already configured it perfectly for you!
 readdy? GO!!! ─=≡Σ((( つ•̀ω•́)つ
 
 ```bash
-git clone https://github.com/Xuanluo-Qiu/astrovim-config ~/.config/nvim && nvim
+git clone https://github.com/xuanluoya/astrovim-config ~/.config/nvim && nvim
 ```
 
 #### Mappings
