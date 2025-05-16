@@ -61,7 +61,7 @@ return {
               -- `--symbols` => all, block, quad, half, vhalf, inverted
               -- legacy, sextant, wedge, wide, narrow
               --]
-              cmd = 'chafa -f symbols --symbols block -c full --speed=0.9 --clear --stretch "$HOME/.config/nvim/assets/kawa/tvchany-anime-pixel-art-other.gif"',
+              cmd = 'chafa -f symbols --symbols block -c full --speed=1 --clear --stretch "$HOME/.config/nvim/assets/kawa/pixel.gif"',
               height = 37,
               width = 72,
               padding = 1,
