@@ -10,6 +10,9 @@ This repo is AstroVim config for me, you also can trying this, I think is fast a
 * [yazi](https://github.com/sxyazi/yazi)
 * [chafa](https://github.com/hpjansson/chafa)
 * [ImageMagick](https://github.com/ImageMagick/ImageMagick)
+* [tectonic](https://github.com/tectonic-typesetting/tectonic)
+* [nodejs](https://github.com/nodejs/node)
+* [mermaid-cli](https://github.com/mermaid-js/mermaid-cli)
 
 If you want to enable GUI or want a cooler experience, I recommend using [Neovide](https://github.com/neovide/neovide).
 

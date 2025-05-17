@@ -10,6 +10,7 @@ return {
   { import = "astrocommunity.pack.cpp" },
   { import = "astrocommunity.pack.cmake" },
   { import = "astrocommunity.pack.rust" },
+  { import = "astrocommunity.pack.json" },
   { import = "astrocommunity.markdown-and-latex.markview-nvim" },
   -- Let edit batter
   { import = "astrocommunity.scrolling.mini-animate" },
