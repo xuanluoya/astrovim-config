@@ -12,7 +12,9 @@ return {
   { import = "astrocommunity.pack.rust" },
   { import = "astrocommunity.pack.json" },
   { import = "astrocommunity.markdown-and-latex.markview-nvim" },
-  -- Let edit batter
+  -- bars
+  { import = "astrocommunity.bars-and-lines.dropbar-nvim" },
+  -- animate
   { import = "astrocommunity.scrolling.mini-animate" },
   -- Themes
   { import = "astrocommunity.colorscheme.catppuccin" },
