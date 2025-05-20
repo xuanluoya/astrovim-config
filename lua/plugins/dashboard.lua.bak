@@ -49,7 +49,8 @@ return {
           pane = 1,
           {
             section = "terminal",
-            cmd = "timg $HOME/.config/nvim/assets/silly-silly.gif",
+            cmd = "chafa -c full --speed=1 --clear $HOME/.config/nvim/assets/tvchany-5.gif",
+            -- cmd = "chafa -f symbols --symbols block -c full --speed=1 --clear $HOME/.config/nvim/assets/tvchany-5.gif",
             height = 37,
             width = 72,
             padding = 1,
