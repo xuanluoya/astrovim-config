@@ -14,6 +14,8 @@ return {
   { import = "astrocommunity.markdown-and-latex.markview-nvim" },
   -- bars
   { import = "astrocommunity.bars-and-lines.dropbar-nvim" },
+  -- media
+  { import = "astrocommunity.media.image-nvim" },
   -- animate
   { import = "astrocommunity.scrolling.mini-animate" },
   -- Themes
