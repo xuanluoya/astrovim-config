@@ -31,6 +31,7 @@ git clone --depth=1 https://github.com/xuanluoya/astrovim-config ~/.config/nvim 
 |`<C-z>`      |Resize split down      |
 |`<C-x>`      |Resize split left      |
 |`<C-c>`      |Resize split right     |
+|`<Leader>nf` |Quickly generate Doxygen style comments |
 
 
 Enjoy! ヽ( ° ▽°)ノ
